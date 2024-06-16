@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>contact | wiitown</title>
+    <style>
+        body {
+            font-family: 'Tahoma', Arial, sans-serif;
+            background: url('gradient-background.png') no-repeat center center fixed; /* Gradient image as background */
+            background-size: cover;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 90%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            border: 1px solid #ccc;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 20px 0;
+            background-color: transparent; /* Make header background transparent to show gradient */
+            position: relative;
+        }
+        .logo {
+            display: block;
+            margin: 0 auto;
+            width: 200px; /* Adjust the size as needed */
+        }
+        .navbar {
+            margin-top: 10px;
+        }
+        .navbar a {
+            color: #FFFFFF;
+            text-decoration: none;
+            margin: 0 10px;
+            font-size: 18px;
+        }
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+        h1 {
+            text-align: center;
+            color: #00BFFF;
+            font-size: 36px;
+        }
+        p {
+            text-align: justify;
+            font-size: 18px;
+        }
+        .contact-info {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .contact-info p {
+            margin: 10px 0;
+        }
+        .marquee-container {
+            width: 100%;
+            background-color: transparent;
+            overflow: hidden;
+            box-sizing: border-box;
+            position: absolute;
+            bottom: 0;
+        }
+        .marquee {
+            color: #FFFFFF;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img class="logo" src="logo.png" alt="wiitown logo">
+        <div class="navbar">
+            <a href="index.html">home</a> |
+            <a href="about.html">about</a> |
+            <a href="services.html">services</a> |
+            <a href="contact.html">contact</a>
+        </div>
+    </div>
+    <div class="container">
+        <h1>Contact Us</h1>
+        <div class="contact-info">
+            <p>Email: wiitown39@gmail.com</p>
+            <p>GitHub: <a href="https://github.com/wiitown" target="_blank">wiitown</a></p>
+        </div>
+        <p>this website is a proof of concept to try programming and running a wii-compatible website in 2024.</p>
+    </div>
+    <div class="marquee-container">
+        <marquee class="marquee" behavior="scroll" direction="left" scrollamount="5">© 2007 Nintendo. ™, ® & the Wii logo are trademarks of Nintendo.</marquee>
+    </div>
+</body>
+</html>
