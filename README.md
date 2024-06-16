@@ -18,11 +18,11 @@ The wiitown website is designed to provide a nostalgic browsing experience on th
 
 ## 🌟 Features
 
-- 🖼️ Simple, retro-inspired design
-- 🎮 Compatible with the Wii's Opera Internet Channel
-- 🌈 Gradient background for a modern look
-- 📰 Scrolling marquee text
-- 🔗 Navigation bar with links to different pages
+- 🖥️ Optimized for the Wii's Opera Internet Channel
+- 🎨 Retro-inspired design with a modern touch
+- 🌐 Gradient background for visual appeal
+- 📂 Simple and intuitive navigation
+- 📄 Clear and concise content sections
 
 ## 🔧 Installation
 
