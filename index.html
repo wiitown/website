@@ -16,18 +16,45 @@
             background-color: #fff;
             border: 1px solid #ccc;
         }
-        h1 {
+        h1, .logo {
             text-align: center;
         }
         p {
             text-align: justify;
         }
+        .logo {
+            font-size: 48px;
+            color: #ADD8E6; /* Light blue color */
+            font-weight: bold;
+            text-transform: lowercase;
+        }
+        .city-clouds {
+            display: block;
+            margin: 0 auto;
+            width: 200px; /* Adjust the size as needed */
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+        footer a {
+            color: #ADD8E6; /* Light blue color */
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <div class="container">
+        <div class="logo">wiitown</div>
+        <img class="city-clouds" src="wiitown.png" alt="city on clouds (wiitown logo)">
         <h1>welcome to wiitown v0</h1>
         <p>this website is a proof of concept to try programming and running a wii-comp. website in 2024.</p>
     </div>
+    <footer>
+        <p><a href="http://www.wii.com" target="_blank">Visit wii.com</a></p>
+    </footer>
 </body>
 </html>
