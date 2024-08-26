@@ -84,7 +84,7 @@ This project is released into the public domain. You are free to use, modify, an
 
 For questions or feedback, please contact the project maintainer at:
 
-- **Email**: wiitown39@gmail.com (CC: shikitaigen@gmail.com) 
+- **Email**: wiitown39@gmail.com (CC: huxpmusic@gmail.com) 
 - **GitHub**: [wiitown](https://github.com/wiitown)
 
 ---
