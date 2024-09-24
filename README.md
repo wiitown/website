@@ -1,6 +1,6 @@
-# 🌌 wiitown Website 🌌
+# 🌌 Wiitown Website 🌌
 
-Welcome to the official repository for the wiitown website! This project is a proof of concept to create and run a website compatible with the Wii's Opera Internet Channel in 2024.
+Welcome to the official repository for the Wiitown website! This project is a proof of concept to create and run a website compatible with the Wii's Opera Internet Channel in 2024.
 
 ## 📋 Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the official repository for the wiitown website! This project is a pr
 
 ## 🔍 About
 
-The wiitown website is designed to provide a nostalgic browsing experience on the Wii console, using simple and compatible HTML and CSS. The site features a retro aesthetic and minimalist design, ensuring it runs smoothly on the Wii's limited browser capabilities.
+The Wiitown website is designed to provide a nostalgic browsing experience on the Wii console, using simple and compatible HTML and CSS. The site features a retro aesthetic and minimalist design, ensuring it runs smoothly on the Wii's limited browser capabilities.
 
 ## 🌟 Features
 
@@ -26,7 +26,7 @@ The wiitown website is designed to provide a nostalgic browsing experience on th
 
 ## 🔧 Installation
 
-To set up the wiitown website locally, follow these steps:
+To set up the Wiitown website locally, follow these steps:
 
 1. Clone the repository:
 
